@@ -18,5 +18,9 @@ L = int(input())
 O = int(input())
 =======
 m = int(input())
+<<<<<<< HEAD
 >>>>>>> 16cdb21 (C4')
+=======
+N = int(input())
+>>>>>>> 3b3600b (C5')
 print(a-b)
