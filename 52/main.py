@@ -23,4 +23,6 @@ m = int(input())
 =======
 N = int(input())
 >>>>>>> 3b3600b (C5')
+P = int(input())
+Q = int(input())
 print(a-b)
