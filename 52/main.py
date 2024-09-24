@@ -14,4 +14,5 @@ j = int(input())
 >>>>>>> test
 k = int(input())
 L = int(input())
+O = int(input())
 print(a-b)
