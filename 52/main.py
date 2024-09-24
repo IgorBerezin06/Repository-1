@@ -12,4 +12,5 @@ i = int(input())
 =======
 j = int(input())
 >>>>>>> test
+k = int(input())
 print(a-b)
