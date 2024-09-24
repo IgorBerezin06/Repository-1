@@ -8,4 +8,8 @@ f = int(input())
 g = int(input())
 h = int(input())
 i = int(input())
+<<<<<<< HEAD
+=======
+j = int(input())
+>>>>>>> test
 print(a-b)
