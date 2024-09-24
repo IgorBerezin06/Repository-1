@@ -14,5 +14,9 @@ j = int(input())
 >>>>>>> test
 k = int(input())
 L = int(input())
+<<<<<<< HEAD
 O = int(input())
+=======
+m = int(input())
+>>>>>>> 16cdb21 (C4')
 print(a-b)
